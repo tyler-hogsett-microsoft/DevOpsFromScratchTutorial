@@ -83,6 +83,8 @@
       <RootComponent type="1" schemaName="cou_building" behavior="0" />
       <RootComponent type="1" schemaName="cou_department" behavior="0" />
       <RootComponent type="61" schemaName="cou_/sample.html" behavior="0" />
+      <RootComponent type="91" id="{f0eae8b6-181d-e911-a83c-000d3a372ab9}" schemaName="Plugins, Version=1.0.0.0, Culture=neutral, PublicKeyToken=00e5a8f14a324bc6" behavior="0" />
+      <RootComponent type="92" id="{0891fdbc-181d-e911-a83c-000d3a3627b3}" behavior="0" />
     </RootComponents>
     <MissingDependencies />
   </SolutionManifest>

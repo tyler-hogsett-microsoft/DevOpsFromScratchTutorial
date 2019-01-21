@@ -19,3 +19,14 @@
 4:46:03 PM	No change: C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\SolutionPackage\package\Entities\cou_building\RibbonDiff.xml
 4:46:03 PM	No change: C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\SolutionPackage\package\Entities\cou_building\Entity.xml
 4:46:03 PM	 - cou_department
+5:08:43 PM	Processing Component: Entities
+5:08:43 PM	No change: C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\SolutionPackage\package\Entities\cou_building\FormXml\quick\{cefdd052-b339-4cb1-9001-5adb96cd5ad5}.xml
+5:08:43 PM	Processing Component: Workflows
+5:08:43 PM	Processing Component: FieldSecurityProfiles
+5:08:43 PM	Processing Component: Templates
+5:08:43 PM	Processing Component: EntityMaps
+5:08:43 PM	Processing Component: EntityRelationships
+5:08:43 PM	No change: C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\SolutionPackage\package\Other\Relationships\Contact.xml
+5:08:43 PM	No change: C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\SolutionPackage\package\Other\Relationships\cou_building.xml
+5:08:43 PM	No change: C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\SolutionPackage\package\Other\Relationships\SystemUser.xml
+5:08:44 PM	No change: C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\SolutionPackage\package\Other\Relationships\Organization.xml

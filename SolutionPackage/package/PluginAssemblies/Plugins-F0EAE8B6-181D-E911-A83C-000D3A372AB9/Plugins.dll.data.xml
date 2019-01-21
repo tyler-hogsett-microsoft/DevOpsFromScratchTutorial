@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PluginAssembly FullName="Plugins, Version=1.0.0.0, Culture=neutral, PublicKeyToken=00e5a8f14a324bc6" PluginAssemblyId="f0eae8b6-181d-e911-a83c-000d3a372ab9" CustomizationLevel="1">
+  <IsolationMode>2</IsolationMode>
+  <SourceType>0</SourceType>
+  <IntroducedVersion>1.0</IntroducedVersion>
+  <FileName>/PluginAssemblies/Plugins-F0EAE8B6-181D-E911-A83C-000D3A372AB9/Plugins.dll</FileName>
+  <PluginTypes>
+    <PluginType AssemblyQualifiedName="Plugins.BuildingPreCreate, Plugins, Version=1.0.0.0, Culture=neutral, PublicKeyToken=00e5a8f14a324bc6" PluginTypeId="6e4393b9-181d-e911-a83c-000d3a372701" Name="Plugins.BuildingPreCreate">
+      <FriendlyName>Plugins.BuildingPreCreate</FriendlyName>
+    </PluginType>
+  </PluginTypes>
+</PluginAssembly>

@@ -28,3 +28,28 @@
 4:46:03 PM	No change: C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\SolutionPackage\package\Entities\cou_department\FormXml\quick\{3544f06d-4dc4-47f5-b371-206c0395178a}.xml
 4:46:03 PM	No change: C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\SolutionPackage\package\Entities\cou_department\SavedQueries\{fa3680a6-ffdb-4b03-b2f9-15090b25072a}.xml
 4:46:03 PM	No change: C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\SolutionPackage\package\Entities\cou_department\SavedQueries\{cdbb8350-e1be-4773-bbc0-543367374f26}.xml
+5:08:43 PM	Reading mapping directives...
+5:08:43 PM	No change: C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\SolutionPackage\package\Entities\cou_building\SavedQueries\{cc1f2d9e-0d4b-4743-a925-d387ac291cdc}.xml
+5:08:43 PM	No change: C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\SolutionPackage\package\Entities\cou_building\Entity.xml
+5:08:43 PM	No change: C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\SolutionPackage\package\Entities\cou_department\SavedQueries\{0ef02c63-024b-45ae-a03f-c8899f089a39}.xml
+5:08:43 PM	No change: C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\SolutionPackage\package\Entities\cou_department\SavedQueries\{cf6942a0-6f03-4f22-8bfd-119eacf5daa6}.xml
+5:08:43 PM	No change: C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\SolutionPackage\package\Entities\cou_department\SavedQueries\{5ea55019-bad7-e811-a955-000d3a5972ee}.xml
+5:08:43 PM	No change: C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\SolutionPackage\package\Entities\cou_department\SavedQueries\{14079bb4-e55f-4a09-a839-a52f83adb302}.xml
+5:11:05 PM	<FileToPath map="PluginAssemblies\**\*.*" to="..\..\Plugins\bin\**" />
+5:11:05 PM	<FileToPath map="WebResources\*.*" to="..\..\WebResources\**" />
+5:11:05 PM	<FileToPath map="WebResources\**\*.*" to="..\..\WebResources\**" />
+5:11:05 PM	
+5:11:05 PM	Packing C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\SolutionPackage\package to C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\SolutionPackage\ContosoUniversity_Schema1_2_0_0.zip
+5:11:05 PM	
+5:11:05 PM	Processing Component: Entities
+5:11:06 PM	 - cou_building
+5:11:06 PM	Reading: C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\SolutionPackage\package\Entities\cou_building\Entity.xml
+5:11:06 PM	Reading: C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\SolutionPackage\package\Entities\cou_building\FormXml\card\{65c17477-e629-4405-9997-1a966824668f}.xml
+5:11:06 PM	Reading: C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\SolutionPackage\package\Entities\cou_building\FormXml\main\{670faf6d-9768-4b8e-bfd1-5d145d6b75b8}.xml
+5:11:06 PM	Reading: C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\SolutionPackage\package\Entities\cou_building\FormXml\quick\{cefdd052-b339-4cb1-9001-5adb96cd5ad5}.xml
+5:11:06 PM	Reading: C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\SolutionPackage\package\Entities\cou_building\SavedQueries\{1d7ef531-4815-4db3-bf90-fd935775cb98}.xml
+5:11:06 PM	Reading: C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\SolutionPackage\package\Entities\cou_building\SavedQueries\{26e3b87b-e026-48e3-aa4c-98d9cc3941bb}.xml
+5:11:06 PM	Reading: C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\SolutionPackage\package\Entities\cou_building\SavedQueries\{534d1635-f8c1-4f64-8974-1e4cf14def5e}.xml
+5:11:06 PM	Reading: C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\SolutionPackage\package\Entities\cou_department\SavedQueries\{cdbb8350-e1be-4773-bbc0-543367374f26}.xml
+5:11:06 PM	Reading: C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\SolutionPackage\package\Entities\cou_department\SavedQueries\{cf6942a0-6f03-4f22-8bfd-119eacf5daa6}.xml
+5:11:06 PM	Reading: C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\SolutionPackage\package\Entities\cou_department\SavedQueries\{e493e5aa-d799-4402-b384-ca92d22d0326}.xml

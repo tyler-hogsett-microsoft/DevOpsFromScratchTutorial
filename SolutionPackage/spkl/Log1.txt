@@ -20,3 +20,18 @@
 4:46:02 PM	Map xml created at 'C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\packages\Microsoft.CrmSdk.CoreTools.9.0.0.7\content\bin\coretools\packager_map.xml'
 4:46:02 PM	Running C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\packages\spkl.1.0.226\tools\..\..\Microsoft.CrmSdk.CoreTools.9.0.0.7\content\bin\coretools\SolutionPackager.exe /action:Extract /zipfile:"C:\Users\tyhogset\AppData\Local\Temp\tmpD827.tmp" /folder:"C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\SolutionPackage\package" /packagetype:unmanaged /allowWrite:Yes /allowDelete:Yes /clobber /errorlevel:Verbose /nologo /log:packagerlog.txt /map:packager_map.xml
 4:46:03 PM	Processed 1 config(s)
+5:08:30 PM	Unpacking solution
+5:08:30 PM	Searching for packager config in 'C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\SolutionPackage\spkl\..'
+5:08:31 PM	Using Config 'C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\SolutionPackage'
+5:08:42 PM	Target C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\packages\spkl.1.0.226\tools
+5:08:42 PM	Map xml created at 'C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\packages\Microsoft.CrmSdk.CoreTools.9.0.0.7\content\bin\coretools\packager_map.xml'
+5:08:42 PM	Running C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\packages\spkl.1.0.226\tools\..\..\Microsoft.CrmSdk.CoreTools.9.0.0.7\content\bin\coretools\SolutionPackager.exe /action:Extract /zipfile:"C:\Users\tyhogset\AppData\Local\Temp\tmp9878.tmp" /folder:"C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\SolutionPackage\package" /packagetype:unmanaged /allowWrite:Yes /allowDelete:Yes /clobber /errorlevel:Verbose /nologo /log:packagerlog.txt /map:packager_map.xml
+5:08:44 PM	Processed 1 config(s)
+5:11:05 PM	Packing Solution
+5:11:05 PM	Searching for packager config in 'C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\SolutionPackage\spkl\..'
+5:11:05 PM	Using Config 'C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\SolutionPackage'
+5:11:05 PM	Target C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\packages\spkl.1.0.226\tools
+5:11:05 PM	Map xml created at 'C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\packages\Microsoft.CrmSdk.CoreTools.9.0.0.7\content\bin\coretools\packager_map.xml'
+5:11:05 PM	Running C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\packages\spkl.1.0.226\tools\..\..\Microsoft.CrmSdk.CoreTools.9.0.0.7\content\bin\coretools\SolutionPackager.exe /action:Pack /zipfile:"C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\SolutionPackage\ContosoUniversity_Schema1_2_0_0.zip" /folder:"C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\SolutionPackage\package" /packagetype:unmanaged /errorlevel:Verbose /nologo /log:packagerlog.txt /map:packager_map.xml
+5:11:06 PM	Solution Packed to 'C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\SolutionPackage\ContosoUniversity_Schema1_2_0_0.zip'
+5:11:06 PM	Processed 1 config(s)

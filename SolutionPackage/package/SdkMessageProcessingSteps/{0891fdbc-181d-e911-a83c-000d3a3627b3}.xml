@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SdkMessageProcessingStep Name="cou_building_precreate" SdkMessageProcessingStepId="{0891fdbc-181d-e911-a83c-000d3a3627b3}">
+  <PluginTypeName>Plugins.BuildingPreCreate, Plugins, Version=1.0.0.0, Culture=neutral, PublicKeyToken=00e5a8f14a324bc6</PluginTypeName>
+  <PluginTypeId>6e4393b9-181d-e911-a83c-000d3a372701</PluginTypeId>
+  <PrimaryEntity>cou_building</PrimaryEntity>
+  <AsyncAutoDelete>0</AsyncAutoDelete>
+  <FilteringAttributes></FilteringAttributes>
+  <InvocationSource>1</InvocationSource>
+  <Mode>0</Mode>
+  <Rank>1</Rank>
+  <SdkMessageId>{9ebdbb1b-ea3e-db11-86a7-000a3a5473e8}</SdkMessageId>
+  <EventHandlerTypeCode>4602</EventHandlerTypeCode>
+  <Stage>20</Stage>
+  <IsCustomizable>1</IsCustomizable>
+  <IsHidden>0</IsHidden>
+  <SupportedDeployment>0</SupportedDeployment>
+  <IntroducedVersion>1.0</IntroducedVersion>
+  <SdkMessageProcessingStepImages />
+</SdkMessageProcessingStep>

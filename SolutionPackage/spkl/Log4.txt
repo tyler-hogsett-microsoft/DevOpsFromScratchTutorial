@@ -7,3 +7,4 @@
 4:34:26 PM	Reading: C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\SolutionPackage\package\Entities\cou_building\SavedQueries\{cc1f2d9e-0d4b-4743-a925-d387ac291cdc}.xml
 4:34:26 PM	Reading: C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\SolutionPackage\package\Entities\cou_building\SavedQueries\{dba808fa-94fa-4f34-b330-440a9a587a9b}.xml
 4:34:26 PM	Reading: C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\SolutionPackage\package\Entities\cou_building\RibbonDiff.xml
+5:11:05 PM	Reading mapping directives...

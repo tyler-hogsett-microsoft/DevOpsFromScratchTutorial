@@ -11,3 +11,9 @@
 4:32:31 PM	Creating: C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\SolutionPackage\package\Entities\cou_department\SavedQueries\{cdbb8350-e1be-4773-bbc0-543367374f26}.xml
 4:32:31 PM	Creating: C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\SolutionPackage\package\Entities\cou_department\SavedQueries\{0ef02c63-024b-45ae-a03f-c8899f089a39}.xml
 4:32:31 PM	Creating: C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\SolutionPackage\package\Entities\cou_department\SavedQueries\{cf6942a0-6f03-4f22-8bfd-119eacf5daa6}.xml
+5:08:43 PM	No change: C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\SolutionPackage\package\Entities\cou_building\SavedQueries\{1d7ef531-4815-4db3-bf90-fd935775cb98}.xml
+5:08:43 PM	No change: C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\SolutionPackage\package\Entities\cou_building\SavedQueries\{534d1635-f8c1-4f64-8974-1e4cf14def5e}.xml
+5:08:43 PM	No change: C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\SolutionPackage\package\Entities\cou_department\SavedQueries\{e493e5aa-d799-4402-b384-ca92d22d0326}.xml
+5:08:43 PM	No change: C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\SolutionPackage\package\Entities\cou_department\RibbonDiff.xml
+5:08:43 PM	No change: C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\SolutionPackage\package\Entities\cou_department\Entity.xml
+5:08:43 PM	Processing Component: Roles

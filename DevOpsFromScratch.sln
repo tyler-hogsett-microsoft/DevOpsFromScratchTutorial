@@ -42,17 +42,29 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "WebResources", "WebResource
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "52967"
+		SlnRelativePath = "WebResources\"
 	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plugins", "Plugins\Plugins.csproj", "{2C7E21B9-C460-43D3-A36F-AECE99E01BAD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{A31CC8CD-1D6A-40BC-8D4A-F59300FDB485}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{A31CC8CD-1D6A-40BC-8D4A-F59300FDB485}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A31CC8CD-1D6A-40BC-8D4A-F59300FDB485}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{A31CC8CD-1D6A-40BC-8D4A-F59300FDB485}.Release|Any CPU.Build.0 = Debug|Any CPU
 		{224D0554-71D1-45BF-AC05-B6B17E5B52A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{224D0554-71D1-45BF-AC05-B6B17E5B52A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{224D0554-71D1-45BF-AC05-B6B17E5B52A3}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{224D0554-71D1-45BF-AC05-B6B17E5B52A3}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{2C7E21B9-C460-43D3-A36F-AECE99E01BAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C7E21B9-C460-43D3-A36F-AECE99E01BAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C7E21B9-C460-43D3-A36F-AECE99E01BAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C7E21B9-C460-43D3-A36F-AECE99E01BAD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

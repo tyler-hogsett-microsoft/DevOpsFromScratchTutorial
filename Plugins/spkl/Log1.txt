@@ -1,0 +1,20 @@
+5:05:18 PM	Deploying Plugins
+5:05:18 PM	Searching for plugin config in 'C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\Plugins\spkl\..'
+5:05:18 PM	Using Config 'C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\Plugins'
+5:05:18 PM	Processed 1 config(s)
+5:05:43 PM	Deploying Plugins
+5:05:43 PM	Searching for plugin config in 'C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\Plugins\spkl\..'
+5:05:43 PM	Using Config 'C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\Plugins'
+5:05:43 PM	Processed 1 config(s)
+5:06:09 PM	Deploying Plugins
+5:06:09 PM	Searching for plugin config in 'C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\Plugins\spkl\..'
+5:06:09 PM	Using Config 'C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\Plugins'
+5:06:09 PM	Checking assembly 'Plugins.dll' for plugins
+5:06:09 PM	1 plugin(s) found!
+5:06:11 PM	Registering Plugin 'Plugins' from 'C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\Plugins\bin\Debug\Plugins.dll'
+5:06:11 PM	Adding Plugin 'Plugins' to solution 'ContosoUniversity_Schema'
+5:06:11 PM	Adding to solution 'ContosoUniversity_Schema'
+5:06:12 PM	Registering Type 'Plugins.BuildingPreCreate'
+5:06:13 PM	Registering Step 'cou_building_precreate'
+5:06:13 PM	Adding to solution 'ContosoUniversity_Schema'
+5:06:13 PM	Processed 1 config(s)
