@@ -1,0 +1,15 @@
+4:32:21 PM	Unpacking solution
+4:32:21 PM	Searching for packager config in 'C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\SolutionPackage\spkl\..'
+4:32:22 PM	Using Config 'C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\SolutionPackage'
+4:32:30 PM	Target C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\packages\spkl.1.0.226\tools
+4:32:30 PM	Map xml created at 'C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\packages\Microsoft.CrmSdk.CoreTools.9.0.2.6\content\bin\coretools\packager_map.xml'
+4:32:30 PM	Running C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\packages\spkl.1.0.226\tools\..\..\Microsoft.CrmSdk.CoreTools.9.0.2.6\content\bin\coretools\SolutionPackager.exe /action:Extract /zipfile:"C:\Users\tyhogset\AppData\Local\Temp\tmp72F0.tmp" /folder:"C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\SolutionPackage\package" /packagetype:unmanaged /allowWrite:Yes /allowDelete:Yes /clobber /errorlevel:Verbose /nologo /log:packagerlog.txt /map:packager_map.xml
+4:32:31 PM	Processed 1 config(s)
+4:34:25 PM	Packing Solution
+4:34:25 PM	Searching for packager config in 'C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\SolutionPackage\spkl\..'
+4:34:25 PM	Using Config 'C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\SolutionPackage'
+4:34:25 PM	Target C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\packages\spkl.1.0.226\tools
+4:34:25 PM	Map xml created at 'C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\packages\Microsoft.CrmSdk.CoreTools.9.0.2.6\content\bin\coretools\packager_map.xml'
+4:34:25 PM	Running C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\packages\spkl.1.0.226\tools\..\..\Microsoft.CrmSdk.CoreTools.9.0.2.6\content\bin\coretools\SolutionPackager.exe /action:Pack /zipfile:"C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\SolutionPackage\ContosoUniversity_Schema1_2_0_0.zip" /folder:"C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\SolutionPackage\package" /packagetype:unmanaged /errorlevel:Verbose /nologo /log:packagerlog.txt /map:packager_map.xml
+4:34:26 PM	Solution Packed to 'C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\SolutionPackage\ContosoUniversity_Schema1_2_0_0.zip'
+4:34:26 PM	Processed 1 config(s)

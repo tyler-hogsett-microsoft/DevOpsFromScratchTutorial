@@ -1,0 +1,13 @@
+4:32:30 PM	<FileToPath map="PluginAssemblies\**\*.*" to="..\..\Plugins\bin\**" />
+4:32:30 PM	Map folder 'C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\Plugins\bin\' does not exist.
+4:32:30 PM	<FileToPath map="WebResources\*.*" to="..\..\Webresources\Webresources\**" />
+4:32:30 PM	Map folder 'C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\Webresources\Webresources\' does not exist.
+4:32:30 PM	<FileToPath map="WebResources\**\*.*" to="..\..\Webresources\Webresources\**" />
+4:32:30 PM	Map folder 'C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\Webresources\Webresources\' does not exist.
+4:32:31 PM	Creating: C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\SolutionPackage\package\Entities\cou_building\SavedQueries\{26e3b87b-e026-48e3-aa4c-98d9cc3941bb}.xml
+4:32:31 PM	Creating: C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\SolutionPackage\package\Entities\cou_building\SavedQueries\{b825b3fc-8885-4d19-8bd8-c58a4c18ab7b}.xml
+4:32:31 PM	Creating: C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\SolutionPackage\package\Entities\cou_building\RibbonDiff.xml
+4:32:31 PM	Creating: C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\SolutionPackage\package\Entities\cou_building\Entity.xml
+4:32:31 PM	 - cou_department
+4:32:31 PM	Creating: C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\SolutionPackage\package\Entities\cou_department\FormXml\card\{e4077ed7-713e-457f-b838-ec5bb60d0e34}.xml
+4:32:31 PM	Creating: C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\SolutionPackage\package\Entities\cou_department\FormXml\main\{f7fa84af-22c4-47b2-b753-feabc575afb0}.xml

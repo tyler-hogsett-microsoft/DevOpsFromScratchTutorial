@@ -1,0 +1,9 @@
+4:34:25 PM	Reading mapping directives...
+4:34:26 PM	Reading: C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\SolutionPackage\package\Entities\cou_building\SavedQueries\{1d7ef531-4815-4db3-bf90-fd935775cb98}.xml
+4:34:26 PM	Reading: C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\SolutionPackage\package\Entities\cou_building\SavedQueries\{26e3b87b-e026-48e3-aa4c-98d9cc3941bb}.xml
+4:34:26 PM	Reading: C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\SolutionPackage\package\Entities\cou_building\SavedQueries\{534d1635-f8c1-4f64-8974-1e4cf14def5e}.xml
+4:34:26 PM	Reading: C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\SolutionPackage\package\Entities\cou_building\SavedQueries\{64c5edd9-a81b-e911-a94f-000d3a34e0cc}.xml
+4:34:26 PM	Reading: C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\SolutionPackage\package\Entities\cou_building\SavedQueries\{b825b3fc-8885-4d19-8bd8-c58a4c18ab7b}.xml
+4:34:26 PM	Reading: C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\SolutionPackage\package\Entities\cou_building\SavedQueries\{cc1f2d9e-0d4b-4743-a925-d387ac291cdc}.xml
+4:34:26 PM	Reading: C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\SolutionPackage\package\Entities\cou_building\SavedQueries\{dba808fa-94fa-4f34-b330-440a9a587a9b}.xml
+4:34:26 PM	Reading: C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\SolutionPackage\package\Entities\cou_building\RibbonDiff.xml

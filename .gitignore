@@ -259,3 +259,4 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
+/SolutionPackage/ContosoUniversity_Schema1_2_0_0.zip

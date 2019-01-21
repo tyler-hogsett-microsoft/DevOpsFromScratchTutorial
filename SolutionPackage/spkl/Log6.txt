@@ -1,0 +1,24 @@
+4:32:30 PM	Reading mapping directives...
+4:32:31 PM	Creating: C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\SolutionPackage\package\Entities\cou_department\SavedQueries\{5ea55019-bad7-e811-a955-000d3a5972ee}.xml
+4:32:31 PM	Creating: C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\SolutionPackage\package\Entities\cou_department\SavedQueries\{14079bb4-e55f-4a09-a839-a52f83adb302}.xml
+4:32:31 PM	Creating: C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\SolutionPackage\package\Entities\cou_department\SavedQueries\{e493e5aa-d799-4402-b384-ca92d22d0326}.xml
+4:32:31 PM	Creating: C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\SolutionPackage\package\Entities\cou_department\RibbonDiff.xml
+4:32:31 PM	Creating: C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\SolutionPackage\package\Entities\cou_department\Entity.xml
+4:34:25 PM	<FileToPath map="PluginAssemblies\**\*.*" to="..\..\Plugins\bin\**" />
+4:34:25 PM	Map folder 'C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\SolutionPackage\package\PluginAssemblies\' does not exist.
+4:34:25 PM	Map folder 'C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\Plugins\bin\' does not exist.
+4:34:25 PM	<FileToPath map="WebResources\*.*" to="..\..\Webresources\Webresources\**" />
+4:34:25 PM	Map folder 'C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\SolutionPackage\package\WebResources' does not exist.
+4:34:25 PM	Map folder 'C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\Webresources\Webresources\' does not exist.
+4:34:26 PM	<FileToPath map="WebResources\**\*.*" to="..\..\Webresources\Webresources\**" />
+4:34:26 PM	Map folder 'C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\SolutionPackage\package\WebResources\' does not exist.
+4:34:26 PM	Map folder 'C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\Webresources\Webresources\' does not exist.
+4:34:26 PM	
+4:34:26 PM	Packing C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\SolutionPackage\package to C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\SolutionPackage\ContosoUniversity_Schema1_2_0_0.zip
+4:34:26 PM	
+4:34:26 PM	Processing Component: Entities
+4:34:26 PM	 - cou_building
+4:34:26 PM	Reading: C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\SolutionPackage\package\Entities\cou_building\Entity.xml
+4:34:26 PM	Reading: C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\SolutionPackage\package\Entities\cou_building\FormXml\card\{65c17477-e629-4405-9997-1a966824668f}.xml
+4:34:26 PM	Reading: C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\SolutionPackage\package\Entities\cou_building\FormXml\main\{670faf6d-9768-4b8e-bfd1-5d145d6b75b8}.xml
+4:34:26 PM	Reading: C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\SolutionPackage\package\Entities\cou_building\FormXml\quick\{cefdd052-b339-4cb1-9001-5adb96cd5ad5}.xml
