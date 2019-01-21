@@ -21,6 +21,27 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "SolutionPackage", "Solution
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "51246"
+		SlnRelativePath = "SolutionPackage\"
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "WebResources", "WebResources\", "{224D0554-71D1-45BF-AC05-B6B17E5B52A3}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_52967"
+		Debug.AspNetCompiler.PhysicalPath = "WebResources\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_52967\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_52967"
+		Release.AspNetCompiler.PhysicalPath = "WebResources\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_52967\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "52967"
 	EndProjectSection
 EndProject
 Global
@@ -30,6 +51,8 @@ Global
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{A31CC8CD-1D6A-40BC-8D4A-F59300FDB485}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{A31CC8CD-1D6A-40BC-8D4A-F59300FDB485}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{224D0554-71D1-45BF-AC05-B6B17E5B52A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{224D0554-71D1-45BF-AC05-B6B17E5B52A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -39,12 +39,12 @@
           {
             "map": "path",
             "from": "WebResources\\*.*",
-            "to": "..\\..\\Webresources\\Webresources\\**"
+            "to": "..\\..\\WebResources\\**"
           },
           {
             "map": "path",
             "from": "WebResources\\**\\*.*",
-            "to": "..\\..\\Webresources\\Webresources\\**"
+            "to": "..\\..\\WebResources\\**"
           }
         ]
       }

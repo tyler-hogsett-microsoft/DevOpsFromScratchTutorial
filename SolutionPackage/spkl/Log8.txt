@@ -11,3 +11,11 @@
 4:32:31 PM	 - cou_department
 4:32:31 PM	Creating: C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\SolutionPackage\package\Entities\cou_department\FormXml\card\{e4077ed7-713e-457f-b838-ec5bb60d0e34}.xml
 4:32:31 PM	Creating: C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\SolutionPackage\package\Entities\cou_department\FormXml\main\{f7fa84af-22c4-47b2-b753-feabc575afb0}.xml
+4:46:03 PM	<FileToPath map="PluginAssemblies\**\*.*" to="..\..\Plugins\bin\**" />
+4:46:03 PM	Map folder 'C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\Plugins\bin\' does not exist.
+4:46:03 PM	<FileToPath map="WebResources\*.*" to="..\..\WebResources\**" />
+4:46:03 PM	<FileToPath map="WebResources\**\*.*" to="..\..\WebResources\**" />
+4:46:03 PM	Read-only files will be over-written or deleted.
+4:46:03 PM	
+4:46:03 PM	Extracting C:\Users\tyhogset\AppData\Local\Temp\tmpD827.tmp to C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\SolutionPackage\package
+4:46:03 PM	

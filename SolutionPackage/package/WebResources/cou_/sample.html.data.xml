@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<WebResource>
+  <WebResourceId>{8837e46f-151d-e911-a83c-000d3a372ab9}</WebResourceId>
+  <Name>cou_/sample.html</Name>
+  <DisplayName>cou_/sample.html</DisplayName>
+  <WebResourceType>1</WebResourceType>
+  <IntroducedVersion>1.0</IntroducedVersion>
+  <IsEnabledForMobileClient>0</IsEnabledForMobileClient>
+  <IsAvailableForMobileOffline>0</IsAvailableForMobileOffline>
+  <IsCustomizable>1</IsCustomizable>
+  <CanBeDeleted>1</CanBeDeleted>
+  <IsHidden>0</IsHidden>
+  <FileName>/WebResources/cou_samplehtml8837E46F-151D-E911-A83C-000D3A372AB9</FileName>
+</WebResource>

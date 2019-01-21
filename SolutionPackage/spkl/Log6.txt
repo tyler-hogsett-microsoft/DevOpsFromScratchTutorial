@@ -22,3 +22,9 @@
 4:34:26 PM	Reading: C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\SolutionPackage\package\Entities\cou_building\FormXml\card\{65c17477-e629-4405-9997-1a966824668f}.xml
 4:34:26 PM	Reading: C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\SolutionPackage\package\Entities\cou_building\FormXml\main\{670faf6d-9768-4b8e-bfd1-5d145d6b75b8}.xml
 4:34:26 PM	Reading: C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\SolutionPackage\package\Entities\cou_building\FormXml\quick\{cefdd052-b339-4cb1-9001-5adb96cd5ad5}.xml
+4:46:03 PM	Reading mapping directives...
+4:46:03 PM	No change: C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\SolutionPackage\package\Entities\cou_department\FormXml\card\{e4077ed7-713e-457f-b838-ec5bb60d0e34}.xml
+4:46:03 PM	No change: C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\SolutionPackage\package\Entities\cou_department\FormXml\main\{f7fa84af-22c4-47b2-b753-feabc575afb0}.xml
+4:46:03 PM	No change: C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\SolutionPackage\package\Entities\cou_department\FormXml\quick\{3544f06d-4dc4-47f5-b371-206c0395178a}.xml
+4:46:03 PM	No change: C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\SolutionPackage\package\Entities\cou_department\SavedQueries\{fa3680a6-ffdb-4b03-b2f9-15090b25072a}.xml
+4:46:03 PM	No change: C:\Users\tyhogset\Documents\Code\Tutorials\Dynamics\DevOpsFromScratch\SolutionPackage\package\Entities\cou_department\SavedQueries\{cdbb8350-e1be-4773-bbc0-543367374f26}.xml
